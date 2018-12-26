@@ -1,17 +1,10 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Full Api Laravel witch Vue.js
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-## Make Laravel Resource (demo)
-
->Laravel 5.7 API that uses the API resources. This is an API for an article CRUD app
+>Laravel 5.7 API that uses Vue.js. This is an API for an article CRUD app
 
 ###Task List
+
+####Backend
 
 - [x] create laravel project
 
@@ -33,32 +26,17 @@
 
 - [x] add virtual host if using Apache
 
-- [x] list all articles with links and meta
+- [x] list all articles with links and meta -> in Postman
 
-``` bash
-GET api/articles
-```
-- get single article
-``` bash
-GET api/article/{id}
-```
+####Frontend
 
-- delete article
-``` bash
-DELETE api/article/{id}
-```
+- [x] add modules
 
-- add article
-``` bash
-POST api/article
-title/body
-```
+`npm install`
 
-- update article
-``` bash
-PUT api/article
-article_id/title/body
-```
+- [x] create components
+
+
 
 ## App Info
 
