@@ -2,9 +2,9 @@
 
 >Laravel 5.7 API that uses Vue.js. This is an API for an article CRUD app
 
-##Task List
+### Task List
 
-###Backend
+#### Backend
 
 - [x] create laravel project
 
@@ -28,7 +28,7 @@
 
 - [x] list all articles with links and meta -> in Postman
 
-###Frontend
+#### Frontend
 
 - [x] add modules
 
@@ -51,10 +51,10 @@ Marcin Dymek
 
 [My Website] (https://t0shifollow.github.io/portfolio)
 
-### Version
+#### Version
 
 1.0.0
 
-### License
+#### License
 
 This project is licensed under the MIT License
