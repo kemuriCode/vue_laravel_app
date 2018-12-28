@@ -2,9 +2,9 @@
 
 >Laravel 5.7 API that uses Vue.js. This is an API for an article CRUD app
 
-###Task List
+##Task List
 
-####Backend
+###Backend
 
 - [x] create laravel project
 
@@ -28,14 +28,20 @@
 
 - [x] list all articles with links and meta -> in Postman
 
-####Frontend
+###Frontend
 
 - [x] add modules
 
 `npm install`
 
-- [x] create components
+- [x] create components: Article.vue
 
+Add method to:
+- [x] makePagination()
+- [x] addArticle()
+- [x] deletedArticle()
+- [x] editArticle()
+- [x] clearForm()
 
 
 ## App Info
